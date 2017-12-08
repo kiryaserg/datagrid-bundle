@@ -1,6 +1,6 @@
 {
-    "name":         "thrace/datagrid-bundle",
-    "description":  "This bundle provides easy creating of jqGrid datagrids",
+    "name":         "kiryaserg/datagrid-bundle",
+    "description":  "This is the fork of thrace/datagrid-bundle. This bundle provides easy creating of jqGrid datagrids",
     "keywords":     ["datagrid", "jqGrid", "jQuery", "Symfony"],
     "type":         "symfony-bundle",
     "license":      "MIT",
@@ -12,7 +12,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "1.1.*-dev"
+            "dev-master": "2.0.*-dev"
         }
     },
     "minimum-stability": "dev",
